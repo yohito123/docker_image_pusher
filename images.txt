@@ -6,3 +6,4 @@ xhofe/alist:latest
 jellyfin/jellyfin:latest
 herberthe0229/iptv-sources
 nyanmisaka/jellyfin
+amilys/embyserver
