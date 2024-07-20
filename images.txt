@@ -8,3 +8,4 @@ herberthe0229/iptv-sources
 nyanmisaka/jellyfin
 amilys/embyserver
 amilys/embyserver:beta
+jlesage/firefox
