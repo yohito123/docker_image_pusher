@@ -9,3 +9,4 @@ nyanmisaka/jellyfin
 amilys/embyserver
 amilys/embyserver:beta
 jlesage/firefox
+selenium/standalone-chrome
