@@ -11,3 +11,4 @@ amilys/embyserver:beta
 jlesage/firefox
 selenium/standalone-chrome
 browserless/chrome
+kasmweb/chrome
