@@ -10,4 +10,4 @@ amilys/embyserver
 amilys/embyserver:beta
 linuxserver/firefox:latest
 kasmweb/firefox:latest
-adolfintel/speedtest:latest
+adolfintel/speedtest
