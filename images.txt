@@ -6,6 +6,6 @@ xhofe/alist:latest
 jellyfin/jellyfin:latest
 herberthe0229/iptv-sources
 nyanmisaka/jellyfin
-amilys/embyserver:beta
+amilys/embyserver:latest
 linuxserver/firefox:latest
 adolfintel/speedtest:latest
